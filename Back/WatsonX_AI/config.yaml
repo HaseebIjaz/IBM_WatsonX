@@ -1,6 +1,6 @@
 watsonx:
   model_id: "ibm/granite-13b-chat-v1"
-  api_key: ${p4wOrdirCxXbwH9nklBtlXiLh_n_B9kAFgsRx0ns1QuJ}
+  api_key: ${WATSONX_API_KEY}
   url: ${WATSONX_URL}
   project_id: ${WATSONX_PROJECT_ID}
 
